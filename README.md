@@ -5,7 +5,7 @@ The sinking of the Titanic is one of the most tragic maritime disasters in histo
 
 ## Notebooks
 1. **Titanic_Scratch.ipynb**: In this notebook, logistic regression is implemented from scratch without using any libraries. The aim is to predict passenger survival based on various features.
-2. **Titanic_Trees.ipynb**: This notebook focuses on data preprocessing, exploring different machine learning models, and selecting the best performing one. Libraries such as NumPy, Pandas, Matplotlib, and scikit-learn are utilized. The final model achieves approximately 79% accuracy on the test dataset.
+2. **Titanic.ipynb**: This notebook focuses on data preprocessing, exploring different machine learning models, and selecting the best performing one. Libraries such as NumPy, Pandas, Matplotlib, and scikit-learn are utilized. The final model achieves approximately 79% accuracy on the test dataset.
 
 ## Data
 - **train.csv**: This file is used to train the machine learning models. It contains features such as passenger class, sex, age, number of siblings/spouses aboard, number of parents/children aboard, fare, and embarked port.
